@@ -1,0 +1,21 @@
+
+body{
+    margin:0;
+}
+*{
+    box-sizing: border-box;
+}
+
+a.color-text{
+    color: rgb(43, 255, 0);
+}
+.colorful-text {
+    color: rgb(3, 8, 110);
+}
+.alter{
+    height: 300px;
+}
+.col{
+    margin-bottom: 25px ;
+}
+
